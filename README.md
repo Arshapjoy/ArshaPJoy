@@ -6,3 +6,4 @@ A little about me :
 - 🌱 Currently pursuing MCA Artificial Intelligence
 - 👯I'm aspired to be a data professional
 - Mastering Datascience and AI techniques everyday
+- curious about the AI Applications in daily life
