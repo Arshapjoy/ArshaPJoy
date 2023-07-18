@@ -1,4 +1,4 @@
-### Hi there 👋, My name ia Arsha P Joy
+### Hi there 👋, I'm Arsha
 
 A little about me :
 
