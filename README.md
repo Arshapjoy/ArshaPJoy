@@ -34,4 +34,4 @@ I like to constantly challenge myself, pushing my boundaries and enriching my ex
 
 ---
 
-![Arsha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arshapjoy&theme=dark&show_icons=true)
+
