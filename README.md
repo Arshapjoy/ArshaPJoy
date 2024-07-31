@@ -8,7 +8,7 @@
 <p align = "center"><b>
 I am a Data Professional with 3+ years of experience<br>
 <i> AI  | Machine Learning | Data Science | Technical Writing | Data Annotation </i><br><br>
-I'm pursuing my Masters in Artificial Intelligence from Jain University (Online) </b>
+I'm pursuing my Masters in Artificial Intelligence from Jain University </b>
 </p>
 
 <p align = "center">
