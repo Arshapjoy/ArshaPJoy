@@ -2,7 +2,6 @@
 <p align="center"><a href="https://github.com/Arshapjoy"><img src="https://d33wubrfki0l68.cloudfront.net/a040d3fe135a512291b3bcab94c329c590e5c275/a2511/images/github-octocat.svg" width="60" height="60"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/arshapjoy/"><img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" width="60" height="60"></a>&nbsp;&nbsp;&nbsp;<a href="https://medium.com/@DIYCoding"><img src="https://cdn4.iconfinder.com/data/icons/social-media-circle-7/512/Medium_circle-512.png" width="60" height="60"></a>
 </p>
 
-
 <p align = "center"><b>
 I am a Data Professional with 3+ years of experience<br>
 <i> AI  | Machine Learning | Data Science | Technical Writing | Data Annotation </i><br><br>
