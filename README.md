@@ -8,6 +8,7 @@ I am a Data Professional with 3+ years of experience<br>
 Masters in Artificial Intelligence </b>
 </p>
 
+
 <p align = "center">
 I like to constantly challenge myself, pushing my boundaries and enriching my experiences. <br>I am passionately curious, detailed-oriented and a committed person. 
 </p>
