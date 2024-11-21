@@ -27,12 +27,7 @@ I like to constantly challenge myself, pushing my boundaries and enriching my ex
 
 <p align = "center">
   <I><B>Let's connect, explore and enjoy! Open to anything under the sky.</B></I>
-</p>
 
-<p align = "center">
-<!--<img align="center" height="160" width="400" src="https://github-readme-stats.vercel.app/api?username=nikita9604&theme=nightowl&show_icons=true" />-->
-<!--<img align="center" height="160" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikita9604&layout=compact" />-->
-</p>
 
 ---
 
