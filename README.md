@@ -12,10 +12,10 @@ Masters in Artificial Intelligence </b>
 </p>
 
 ---
-
-- 🧑‍💻 **Currently exploring On**:  **Generative AI**, and **Advanced OpenCV**.
-- 👨‍🏫 **Hobby**: Enjoy writing and sharing insights on AI and ML to beginners and laymen.
-- 🌐 **Aim**: Make everyone aware of AI and its ethis irrespective of their background.
+<p align = "center">
+- 🧑‍💻 <b>Currently exploring On</b>:  <b>Generative AI</b>, and <b>Advanced Computer Vision</b>.<br>
+- 👨‍🏫 <b>Hobby</b>: Enjoy writing and sharing insights on AI and ML to beginners and laymen.<br>
+- 🌐 <b>Make everyone aware of AI and its ethis irrespective of their background.</b>
 ---
 
 | Interest | <img alt="GitHub User's view" src="https://img.shields.io/badge/%20-Computer%20Vision-%23C05CD4?style=for-the-badge"> <img alt="GitHub User's view" src="https://img.shields.io/badge/%20-Machine%20Learning-%23AA52BC?style=for-the-badge"> <img alt="GitHub User's view" src="https://img.shields.io/badge/%20-Deep%20Learning-%239547A5?style=for-the-badge"> <img alt="GitHub User's view" src="https://img.shields.io/badge/%20-Artificial%20Intelliegnce-%23803D8D?style=for-the-badge"> <img alt="GitHub User's view" src="https://img.shields.io/badge/%20-Data%20Science-%23803D8D?style=for-the-badge"> <img alt="GitHub User's view" src="https://img.shields.io/badge/%20-Generative%20AI-%23804D8D?style=for-the-badge">|
@@ -30,6 +30,7 @@ Masters in Artificial Intelligence </b>
 A content based movie recommendation webapp using tf-idf cosine similarity using rotten tomatoes dataset which recommends 10 similar movies</details>
 ---
 
+<img src="https://github-readme-stats.vercel.app/api?username=Arshapjoy&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="Arshapjoy's GitHub Stats" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=Arshapjoy&theme=dark&hide_border=true" alt="Arshapjoy's GitHub Stats" />
 <p align = "center">
   <I><B>Let's connect, explore and enjoy! Open to anything under the sky.</B></I>
 
