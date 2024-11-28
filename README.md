@@ -8,14 +8,14 @@
 <p align = "center"><b>
 I am a Data Professional with 3+ years of experience<br>
 <i> AI  | Machine Learning | Data Science | Technical Writing | Data Annotation </i><br><br>
-Masters in Artificial Intelligence </b>
+Masters in Artificial Intelligence</b> 
 </p>
 
 ---
 <p align = "center">
-- 🧑‍💻 <b>Currently exploring On</b>:  <b>Generative AI</b>, and <b>Advanced Computer Vision</b>.<br>
-- 👨‍🏫 <b>Hobby</b>: Enjoy writing and sharing insights on AI and ML to beginners and laymen.<br>
-- 🌐 <b>Make everyone aware of AI and its possibilities irrespective of their background.</b>
+🧑‍💻<b>Currently exploring</b>: <b>Generative AI</b>, <b>Advanced Computer Vision and cloud services</b>.<br>
+👨‍🏫 <b>Hobby</b>: I enjoy writing and sharing insights on AI and ML to beginners and laymen.<br>
+🌐 <b>Making everyone aware of AI and its possibilities irrespective of their background.</b>
   
 ---
 
