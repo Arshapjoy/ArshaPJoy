@@ -30,8 +30,9 @@ Masters in Artificial Intelligence</b>
   <summary><b>Content based movie recommendation system</b></summary> 
 A content based movie recommendation webapp using tf-idf cosine similarity using rotten tomatoes dataset which recommends 10 similar movies</details>
 ---
-
-<img src="https://github-readme-stats.vercel.app/api?username=Arshapjoy&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="Arshapjoy's GitHub Stats" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=Arshapjoy&theme=dark&hide_border=true" alt="Arshapjoy's GitHub Stats" />
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Arshapjoy&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="Arshapjoy's GitHub Stats" height="195" width="49%"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=Arshapjoy&theme=dark&hide_border=true" alt="Arshapjoy's GitHub Stats" width="49%"/>
+</p>
 <p align = "center">
   <I><B>Let's connect, explore and enjoy! Open to anything under the sky.</B></I>
 
