@@ -34,7 +34,8 @@ A content based movie recommendation webapp using tf-idf cosine similarity using
 ---
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Arshapjoy&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="Arshapjoy's GitHub Stats" height="175" width="49%"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=Arshapjoy&theme=dark&hide_border=true" alt="Arshapjoy's GitHub Stats" height="175" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Arshapjoy&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="Arshapjoy's GitHub Stats" height="175" width="49%"/>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-navy-chi.vercel.app?user=Arshapjoy&theme=dark" alt="GitHub Streak" height="175" width="49%"/></a>
 
 </p>
 <p align = "center">
