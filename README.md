@@ -4,8 +4,6 @@
 
 
 
-
-
 <p align = "center"><b>
 I am a Data Professional with 3+ years of experience<br>
 <i> AI  | Machine Learning | Data Science | Technical Writing | Data Annotation </i><br><br>
