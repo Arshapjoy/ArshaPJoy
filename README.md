@@ -5,16 +5,15 @@
 
 
 <p align = "center"><b>
-I am a Data Professional with 3+ years of experience<br>
-<i> AI  | Machine Learning | Data Science | Technical Writing | Data Annotation </i><br><br>
+I am a Computer Vision Scientist with 4+ years of experience<br>
+<i> AI  | Machine Learning | Data Science | Technical Writing </i><br><br>
 Masters in Artificial Intelligence</b> 
 </p>
 
 ---
 <p align = "center">
-🧑‍💻<b>Currently exploring</b>: <b>Generative AI</b>, <b>Advanced Computer Vision and cloud services</b>.<br>
-👨‍🏫 <b>Hobby</b>: I enjoy writing and sharing insights on AI and ML to beginners and laymen.<br>
-🌐 <b>Making everyone aware of AI and its possibilities irrespective of their background.</b>
+Currently, I work across Computer Vision, Deep Learning, and Generative AI, while also contributing to the community through technical writing and mentorship.
+If you’re building something impactful or want to collaborate on AI-driven projects, let’s connect...
   
 ---
 
@@ -24,16 +23,33 @@ Masters in Artificial Intelligence</b>
 | <b>Connect with Me</b>  | <a href="https://medium.com/@DIYCoding"><img alt="GitHub User's view" src="https://img.shields.io/badge/%20-Medium-%23002447?style=for-the-badge"></a> <a href="https://www.linkedin.com/in/arshapjoy/"><img alt="GitHub User's view" src="https://img.shields.io/badge/%20-LinkedIn-%2300172D?style=for-the-badge"></a> <a href="mailto: arshasaiby@gmail.com"><img alt="GitHub User's view" src="https://img.shields.io/badge/%20-Gmail-%23000B18?style=for-the-badge"></a> |
 
 ---
-## 💼 Projects
-<details>
-  <summary><b>Content based movie recommendation system</b></summary> 
-A content based movie recommendation webapp using tf-idf cosine similarity using rotten tomatoes dataset which recommends 10 similar movies</details>
+🧠 What I Work On
 
+- Computer Vision – Image classification, object detection, segmentation, OCR
+
+- Deep Learning – CNNs, transfer learning, model optimization
+
+- Generative AI – Diffusion models, LLM integrations, multimodal systems
+
+- ML Systems – Data pipelines, experimentation, evaluation, deployment
+
+- Data Annotation & Quality – CVAT workflows, dataset curation
 ---
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Arshapjoy&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="Arshapjoy's GitHub Stats" height="175" width="49%"/>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-navy-chi.vercel.app?user=Arshapjoy&theme=dark" alt="GitHub Streak" height="175" width="49%"/></a>
+🌱 What I’m Passionate About
+
+AI That Solves Real Problems
+Building systems that go beyond demos and actually work in production.
+
+Demystifying AI
+Writing and explaining AI concepts for beginners and non-technical audiences.
+
+Open & Responsible AI
+Sharing knowledge, code, and best practices with the community.
+
+---
+📊 GitHub at a Glance
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Arshapjoy&show_icons=true&hide_border=true&count_private=true&theme=dark" height="170"/> <img src="https://github-readme-streak-stats.herokuapp.com?user=Arshapjoy&hide_border=true&theme=dark" height="170"/> </p>
 
 </p>
 <p align = "center">
