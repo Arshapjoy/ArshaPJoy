@@ -48,9 +48,6 @@ Open & Responsible AI
 Sharing knowledge, code, and best practices with the community.
 
 ---
-📊 GitHub at a Glance
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Arshapjoy&show_icons=true&hide_border=true&count_private=true&theme=dark" height="170"/> <img src="https://github-readme-streak-stats.herokuapp.com?user=Arshapjoy&hide_border=true&theme=dark" height="170"/> </p>
-
 </p>
 <p align = "center">
   <I><B>Let's connect, explore and enjoy! Open to anything under the sky.</B></I>
