@@ -4,39 +4,26 @@
 
 
 
-<p align = "center"><b>
-I am a Computer Vision Scientist with 4+ years of experience<br>
-<i> AI  | Machine Learning | Data Science | Technical Writing </i><br><br>
-Masters in Artificial Intelligence</b> 
+<h1 align="center">Computer Vision Scientist | Applied AI Engineer</h1>
+<p align="center">
+  AI · Computer Vision · Deep Learning · Generative AI · ML Systems <br>
+  Masters in Artificial Intelligence <br>
+  4+ Years of Industry Experience
 </p>
-
----
-<p align = "center">
-Currently, I work across Computer Vision, Deep Learning, and Generative AI, while also contributing to the community through technical writing and mentorship.
-If you’re building something impactful or want to collaborate on AI-driven projects, let’s connect...
   
----
+## About Me
 
-| Interest | <img alt="GitHub User's view" src="https://img.shields.io/badge/%20-Computer%20Vision-%23C05CD4?style=for-the-badge"> <img alt="GitHub User's view" src="https://img.shields.io/badge/%20-Machine%20Learning-%23AA52BC?style=for-the-badge"> <img alt="GitHub User's view" src="https://img.shields.io/badge/%20-Deep%20Learning-%239547A5?style=for-the-badge"> <img alt="GitHub User's view" src="https://img.shields.io/badge/%20-Artificial%20Intelliegnce-%23803D8D?style=for-the-badge"> <img alt="GitHub User's view" src="https://img.shields.io/badge/%20-Data%20Science-%23803D8D?style=for-the-badge"> <img alt="GitHub User's view" src="https://img.shields.io/badge/%20-Generative%20AI-%23804D8D?style=for-the-badge">|
-| :---: | :---: |
-| <b>Languages & Tools</b>    |  <img alt="GitHub User's view" src="https://img.shields.io/badge/%20-Python-%23FFDD3C?style=for-the-badge"> <img alt="GitHub User's view" src="https://img.shields.io/badge/%20-SQL-%23FFEA61?style=for-the-badge"> <img alt="GitHub User's view" src="https://img.shields.io/badge/%20-Tableau-%23E8B631?style=for-the-badge"> <img alt="GitHub User's view" src="https://img.shields.io/badge/%20-PowerBI-%23E08307?style=for-the-badge"> <img alt="GitHub User's view" src="https://img.shields.io/badge/%20-Git-%23F55301?style=for-the-badge"> <img alt="GitHub User's view" src="https://img.shields.io/badge/%20-CVAT-%23DE4B00?style=for-the-badge"> <img alt="GitHub User's view" src="https://img.shields.io/badge/%20-Excel-%23F03801?style=for-the-badge"> |
+| | |
+|---|---|
+|  Education | Masters in Artificial Intelligence |
+|  Experience | 4+ years building production-grade Computer Vision systems |
+|  Specialization | Applied Computer Vision & Deep Learning |
+|  Domains | Retail · Microbiology · Chemical · Machinery Calibration · Animal Husbandry · Medicine  · Dairytech |
+|  Focus | Scalable, real-world AI systems beyond research prototypes |
+|  Community | Technical writing · Mentorship · Knowledge sharing |
 | <b>Connect with Me</b>  | <a href="https://medium.com/@DIYCoding"><img alt="GitHub User's view" src="https://img.shields.io/badge/%20-Medium-%23002447?style=for-the-badge"></a> <a href="https://www.linkedin.com/in/arshapjoy/"><img alt="GitHub User's view" src="https://img.shields.io/badge/%20-LinkedIn-%2300172D?style=for-the-badge"></a> <a href="mailto: arshasaiby@gmail.com"><img alt="GitHub User's view" src="https://img.shields.io/badge/%20-Gmail-%23000B18?style=for-the-badge"></a> |
 
----
-🧠 What I Work On
-
-- Computer Vision – Image classification, object detection, segmentation, OCR
-
-- Deep Learning – CNNs, transfer learning, model optimization
-
-- Generative AI – Diffusion models, LLM integrations, multimodal systems
-
-- ML Systems – Data pipelines, experimentation, evaluation, deployment
-
-- Data Annotation & Quality – CVAT workflows, dataset curation
----
-
-🌱 What I’m Passionate About
+## What I’m Passionate About
 
 AI That Solves Real Problems
 Building systems that go beyond demos and actually work in production.
